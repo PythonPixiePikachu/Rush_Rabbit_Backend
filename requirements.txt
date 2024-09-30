@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymssql
+azure.identity
+azure.keyvault
+dotenv
